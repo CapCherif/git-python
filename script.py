@@ -6,3 +6,8 @@
 
 def MyFunction(p):
     print("Hello ", p)
+
+
+# fonction ajoutée par Dorsane
+def functionDorsane(m):
+    return m
