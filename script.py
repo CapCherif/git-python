@@ -11,3 +11,9 @@ def MyFunction(p):
 # fonction ajoutée par Dorsane
 def functionDorsane(m):
     return m
+
+
+#fonction ajoutée par Lina
+
+def fonctionLina(a):
+    return a
