@@ -17,3 +17,7 @@ def functionDorsane(m):
 
 def fonctionLina(a):
     return a
+
+
+def fonctionRafik(a):
+    return a
